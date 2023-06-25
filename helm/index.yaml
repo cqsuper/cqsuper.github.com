@@ -3,12 +3,12 @@ entries:
   tmall:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-06-21T16:36:43.845048+08:00"
+    created: "2023-06-25T10:55:52.073497+08:00"
     description: tmall demo
-    digest: bfb11cd7363676e1927d1efe50677ec5ab7632f223036a2dc0e0d4ce848a2002
+    digest: 209544ea747d052af076a6d3573fce455d0296f1930f60aba9e50596b9a19caa
     name: tmall
     type: application
     urls:
-    - https://cqsuper.github.io/helm/tmall-0.1.1.tgz
-    version: 0.1.1
-generated: "2023-06-21T16:36:43.844424+08:00"
+    - https://cqsuper.github.io/helm/tmall-0.1.2.tgz
+    version: 0.1.2
+generated: "2023-06-25T10:55:52.072544+08:00"
