@@ -3,7 +3,7 @@ entries:
   delay:
   - apiVersion: v2
     appVersion: v1
-    created: "2023-10-11T15:50:25.28055+08:00"
+    created: "2023-10-11T16:51:20.806665+08:00"
     description: 用flask制作的超级简单的一个随机0-10秒时延的小程序，无状态，可以多机部署
     digest: 9943ad83e8678eea317cf36ea2a63a5288c7e2add562f3d6817642f80d9f2665
     name: delay
@@ -14,7 +14,7 @@ entries:
   facechain:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-11T15:50:25.281246+08:00"
+    created: "2023-10-11T16:51:20.808157+08:00"
     description: facechain
     digest: 122b15a1ccdebe540023183b5228e313dd754c5c46c93c284151862e08965b2d
     name: facechain
@@ -24,10 +24,10 @@ entries:
     version: 0.1.0
   ops:
   - apiVersion: v2
-    appVersion: v23
-    created: "2023-10-11T15:50:25.281656+08:00"
+    appVersion: v24
+    created: "2023-10-11T16:51:20.80865+08:00"
     description: ops demo
-    digest: c57834b515353f0268aa8a966b62a745a7dc9f3fde64b547e042834b0cb156f5
+    digest: 2698eaf5e1ac03c19faf7197e3abfdbe73e264394b182782ce2958a971bfd959
     name: ops
     type: application
     urls:
@@ -36,7 +36,7 @@ entries:
   tmall:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-11T15:50:25.282362+08:00"
+    created: "2023-10-11T16:51:20.8103+08:00"
     description: tmall demo
     digest: d4270e3bdf75f4926f0192422f3c9ae7448de567d6b4024594e3a4804684fe9a
     name: tmall
@@ -44,4 +44,4 @@ entries:
     urls:
     - https://cqsuper.github.io/helm/tmall-0.1.5.tgz
     version: 0.1.5
-generated: "2023-10-11T15:50:25.278721+08:00"
+generated: "2023-10-11T16:51:20.805039+08:00"
